@@ -4,3 +4,7 @@
 * инициализация npm
 * добавить babel
 * добавить eslint
+
+## Модули
+* Webpack
+* Import/Export
