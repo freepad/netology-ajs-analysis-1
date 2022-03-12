@@ -1,6 +1,5 @@
-// TODO: write your code here
-import sum from './basic';
+function app() {
+  console.log('App worked');
+}
 
-console.log('worked');
-
-console.log(sum([1, 2]));
+export default app
