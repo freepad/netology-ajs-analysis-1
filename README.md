@@ -8,3 +8,7 @@
 ## Модули
 * Webpack
 * Import/Export
+
+## Unit-тестирование
+* Matchers
+* Mocking
